@@ -9,17 +9,27 @@
 
 # TODO 1: Identify the information the movement process needs.
 # Consider the player's current room and movement command.
+INPUT current_room
+INPUT room_connections
 
 # TODO 2: Prompt for and receive the player's movement command.
+OUTPUT "WHich direction would you like to move? North, South, East, or West?"
+INPUT direction
 
 # TODO 3: Validate whether the requested movement is possible from the
 # current room. Show the decision clearly.
+IF direction IS IN room_connections[current_room] THEN
 
 # TODO 4: Describe what happens when the movement command is valid.
 # Include the room update and player output.
+  SET current_room = room_connections[current_room] [direction]
+  OUTPUT "Nova Noel has entered" + current_room
 
 # TODO 5: Describe what happens when the movement command is invalid.
 # Include the output the player should receive.
-
+ELSE 
+  OUTPUT "You cannot move in that direction!"
+END IF
 # TODO 6: Show how movement fits into repeated gameplay.
 # The final game continues accepting commands until a required ending occurs.
+RETURN current_room
