@@ -7,25 +7,24 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+The Christmas Heist features a enthusiastic and brave elf named Nova Noel who sets out to save the magic of Christmas.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+It is the night before Christmas in a small loving town Santa and his crew are getting ready to deliver Christmas presents to everyone on the nice list. Christmas is currently held up because all items need to make this Christmas special have been stolen. The north pole is in a frenzy everyone is wondering who could do something so heinous. Everyone sits around thinking and the only thing that makes sense is the elf who just left the north pole, his name is Stingy Silas. Nova Noel must set pout to retrieve the items needed to save Christmas these include Magic Cookies, Magic Workshop Key, Rudolph's Nose Crystal, Santa's Nice List, Golden Sleigh Bell, and The Christmas Star.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Santa's Workshop
+2. Gingerbread Kitchen
+3. Toy Room
+4. Reindeer Room
+5. List Room
+6. Sleigh Room
+7. Christmas Star Room
+8. Frozen Chamber 
 
 Add more rooms if your design needs them.
 
@@ -34,19 +33,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Magic Cookies
+2. Magic Workshop Key
+3. Rudolph's Nose Crystal 
+4. Santa's Nice List 
+5. Golden Sleigh Bell
+6. Christmas Star
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+Stingy Silas use to be one of Santa's helpers. He left the workshop because he could not believe that thousands of toys would be given out every year with no profit being made. He felt that he made toys way too good to not get any money from it so he left and separated himself with the hopes to win people over to his view on things.
 
 ## Storyboard and Map Check
 
